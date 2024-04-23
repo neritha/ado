@@ -1,0 +1,238 @@
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\TPlivre.exe
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\TPlivre.deps.json
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\TPlivre.runtimeconfig.json
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\TPlivre.dll
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Isaac\Documents\VS repos\TPlivre\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.AssemblyReference.cache
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeAuteur.resources
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.GenerateResource.cache
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfo.cs
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CopyComplete
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.dll
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\refint\TPlivre.dll
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.genruntimeconfig.cache
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\ref\TPlivre.dll
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheAuteur.resources
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_Menu.resources
+C:\Users\Isaac\Documents\VS repos\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_ListeGenre.resources
+F:\TPlivre\bin\Debug\net6.0-windows\TPlivre.exe
+F:\TPlivre\bin\Debug\net6.0-windows\TPlivre.deps.json
+F:\TPlivre\bin\Debug\net6.0-windows\TPlivre.runtimeconfig.json
+F:\TPlivre\bin\Debug\net6.0-windows\TPlivre.dll
+F:\TPlivre\bin\Debug\net6.0-windows\TPlivre.pdb
+F:\TPlivre\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+F:\TPlivre\bin\Debug\net6.0-windows\Google.Protobuf.dll
+F:\TPlivre\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+F:\TPlivre\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\TPlivre\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+F:\TPlivre\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\TPlivre\bin\Debug\net6.0-windows\MySql.Data.dll
+F:\TPlivre\bin\Debug\net6.0-windows\MySqlConnector.dll
+F:\TPlivre\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\TPlivre\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+F:\TPlivre\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+F:\TPlivre\bin\Debug\net6.0-windows\System.Text.Json.dll
+F:\TPlivre\bin\Debug\net6.0-windows\ZstdSharp.dll
+F:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+F:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+F:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+F:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+F:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+F:\TPlivre\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.AssemblyReference.cache
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheAuteur.resources
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_ListeGenre.resources
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeAuteur.resources
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_Menu.resources
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.GenerateResource.cache
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.GeneratedMSBuildEditorConfig.editorconfig
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfoInputs.cache
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfo.cs
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CoreCompileInputs.cache
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CopyComplete
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.dll
+F:\TPlivre\obj\Debug\net6.0-windows\refint\TPlivre.dll
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.pdb
+F:\TPlivre\obj\Debug\net6.0-windows\TPlivre.genruntimeconfig.cache
+F:\TPlivre\obj\Debug\net6.0-windows\ref\TPlivre.dll
+D:\TPlivre\bin\Debug\net6.0-windows\TPlivre.exe
+D:\TPlivre\bin\Debug\net6.0-windows\TPlivre.deps.json
+D:\TPlivre\bin\Debug\net6.0-windows\TPlivre.runtimeconfig.json
+D:\TPlivre\bin\Debug\net6.0-windows\TPlivre.dll
+D:\TPlivre\bin\Debug\net6.0-windows\TPlivre.pdb
+D:\TPlivre\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+D:\TPlivre\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\TPlivre\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\TPlivre\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\TPlivre\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\TPlivre\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TPlivre\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\TPlivre\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\TPlivre\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\TPlivre\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\TPlivre\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\TPlivre\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\TPlivre\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\TPlivre\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.AssemblyReference.cache
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheAuteur.resources
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_ListeGenre.resources
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeAuteur.resources
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_Menu.resources
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.GenerateResource.cache
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfoInputs.cache
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfo.cs
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CoreCompileInputs.cache
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CopyComplete
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.dll
+D:\TPlivre\obj\Debug\net6.0-windows\refint\TPlivre.dll
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.pdb
+D:\TPlivre\obj\Debug\net6.0-windows\TPlivre.genruntimeconfig.cache
+D:\TPlivre\obj\Debug\net6.0-windows\ref\TPlivre.dll
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.AssemblyReference.cache
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.dll
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\refint\TPlivre.dll
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheAuteur.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeAuteur.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheGenre.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeGenre.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_Menu.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.GenerateResource.cache
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfoInputs.cache
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.AssemblyInfo.cs
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\TPlivre.exe
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\TPlivre.deps.json
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\TPlivre.runtimeconfig.json
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\TPlivre.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Isaac\Documents\TPlivre\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.csproj.CopyComplete
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.genruntimeconfig.cache
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\ref\TPlivre.dll
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheLivre.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeLivre.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.FicheAdherent.resources
+C:\Users\Isaac\Documents\TPlivre\obj\Debug\net6.0-windows\TPlivre.Form_listeAdherent.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\TPlivre.exe
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\TPlivre.deps.json
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\TPlivre.runtimeconfig.json
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\TPlivre.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.csproj.AssemblyReference.cache
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.FicheAdherent.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.Form_listeAdherent.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.FicheAuteur.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.Form_listeAuteur.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.FicheGenre.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.Form_listeGenre.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.FicheLivre.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.Form_listeLivre.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.Form_Menu.resources
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.csproj.GenerateResource.cache
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.AssemblyInfoInputs.cache
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.AssemblyInfo.cs
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.csproj.CopyComplete
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\refint\TPlivre.dll
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\TPlivre.genruntimeconfig.cache
+C:\Users\mathi\Desktop\Ecole\ado-winform-main\obj\Debug\net6.0-windows\ref\TPlivre.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\TPlivre.exe
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\TPlivre.deps.json
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\TPlivre.runtimeconfig.json
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\TPlivre.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.csproj.AssemblyReference.cache
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.FicheAdherent.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.Form_listeAdherent.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.FicheAuteur.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.Form_listeAuteur.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.FicheGenre.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.Form_listeGenre.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.FicheLivre.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.Form_listeLivre.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.Form_Menu.resources
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.csproj.GenerateResource.cache
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.AssemblyInfoInputs.cache
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.AssemblyInfo.cs
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.csproj.CoreCompileInputs.cache
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.csproj.CopyComplete
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\refint\TPlivre.dll
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.pdb
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\TPlivre.genruntimeconfig.cache
+C:\Users\Vicky\Documents\Code2\C#\ADO\obj\Debug\net6.0-windows\ref\TPlivre.dll
